@@ -20,7 +20,7 @@ My first project to familiarize myself with github and web development using rea
 
 1. Clone the repository:
 
-   `git clone https://github.com/Dhiya-Natarajan/todo-app/tree/main/todo-app`
+   `git clone https://github.com/Dhiya-Natarajan/todo-app.git`
 
 
 2. Navigate into the project directory:
