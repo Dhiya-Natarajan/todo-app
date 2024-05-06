@@ -20,16 +20,17 @@ My first project to familiarize myself with github and web development using rea
 
 1. Clone the repository:
 
-   git clone <https://github.com/Dhiya-Natarajan/todo-app/tree/main/todo-app>
+   `git clone https://github.com/Dhiya-Natarajan/todo-app/tree/main/todo-app`
 
 
 2. Navigate into the project directory:
-
+   `cd todo-app`
    
-3. Install dependencies:
-
+4. Install dependencies:
+   `npm install`
    
-4. Run the application:
+5. Run the application:
+   `npm start`
 
    
 The application will open in your default web browser at `http://localhost:3000`.
@@ -39,11 +40,6 @@ The application will open in your default web browser at `http://localhost:3000`
 - To add a new todo item, type the task in the input field and press Enter.
 - To mark a todo item as completed, click on the checkbox next to the item.
 - To delete a todo item, click on the delete button next to the item.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
 
 
 
