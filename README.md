@@ -20,7 +20,7 @@ This is a simple todo checklist application built using React. It allows users t
 
 1. Clone the repository:
 
-   git clone <repository_url>
+   git clone <https://github.com/Dhiya-Natarajan/todo-app/tree/main/todo-app>
 
 
 2. Navigate into the project directory:
