@@ -49,6 +49,7 @@ export default function App()
   }
   
    return (
+    
     <div className="centered">
       <NewTodoForm onSubmit ={addTodo}/>
       <h1 className="header">Hi There,your</h1>
@@ -57,6 +58,7 @@ export default function App()
       
     <TodoList todos={todos} toggleTodo={toggleTodo} deleteTodo={deleteTodo}/>
       </div>
+      
       )
 
  }
@@ -73,35 +75,3 @@ export default function App()
 
 
 
-
-
-
-
-
-
-//   import logo from './logo.svg';
-//  import './App.css';
-
-//   function App() {
-//     return (
-//       <div className="App">
-//         <header className="App-header">
-//           { <img src={logo} className="App-logo" alt="logo" /> }
-//          <p>
-//            Edit <code>src/App.js</code> and save to reload.
-//            Created by Dhiya Natarajan
-//           </p>
-//           <a
-//             className="App-link"
-//             href="https://reactjs.org"
-//             target="_blank"
-//             rel="noopener noreferrer"
-//           >
-//             Learn React
-//          </a>
-//         </header>
-//       </div>
-//     );
-//   }
-
-//   export default App
