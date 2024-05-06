@@ -1,6 +1,6 @@
 # Todo Checklist App
 
-This is a simple todo checklist application built using React. It allows users to add, toggle, and delete todo items. The application persists todo items in the browser's local storage, so the todos will be retained even after refreshing the page.
+My first project to familiarize myself with github and web development using react. This is a simple todo checklist application built using React. It allows users to add, toggle, and delete todo items. The application persists todo items in the browser's local storage, so the todos will be retained even after refreshing the page.
 
 ## Features
 
